@@ -101,7 +101,7 @@ I enjoy working on full-stack applications, intrusion detection systems, and int
 
 **B.Tech – Computer Science Engineering**  
 Amrita Vishwa Vidyapeetham  
-CGPA: 8.26  
+CGPA: 8.33 
 
 ---
 
