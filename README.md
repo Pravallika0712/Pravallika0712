@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Soma Siva Pravallika
 
-<!--
-**Pravallika0712/Pravallika0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🤖 Machine Learning | 🔐 Network Security  
+🎓 B.Tech CSE — Amrita Vishwa Vidyapeetham  
 
-Here are some ideas to get you started:
+I build real-world systems in Banking, Security, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Java • Python • C • C++ • JavaScript
+
+### Web
+HTML • CSS • React • Node.js
+
+### Database
+MySQL • MongoDB
+
+### Tools
+Git • Docker • Jenkins • Linux
+
+---
+
+## 🚀 Projects
+
+### 🏦 NexaBank Banking System
+Full stack banking system with loans, EMI, dashboard
+
+🔗 https://github.com/Pravallika0712/NexaBank
+
+### 🔐 Intrusion Detection System
+Machine learning based attack detection
+
+### 📊 Social Media Analysis Tool
+Dashboard + sentiment analysis
+
+### 🚚 Pathfinding Logistics System
+Dijkstra algorithm based route planner
+
+---
+
+## 📫 Connect
+
+📧 somasivapravallika07@gmail.com  
+🔗 https://github.com/Pravallika0712
