@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soma Siva Pravallika
 
 💻 Full Stack Developer | 🤖 Machine Learning | 🔐 Network Security  
-🎓 B.Tech CSE — Amrita Vishwa Vidyapeetham (CGPA: 8.26)
+🎓 B.Tech CSE — Amrita Vishwa Vidyapeetham (CGPA: 8.33)
 
 I am passionate about building real-world systems in Banking, Cybersecurity, Machine Learning, and Data Analytics.  
 I enjoy working on full-stack applications, intrusion detection systems, and intelligent automation solutions.
